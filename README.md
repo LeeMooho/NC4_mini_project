@@ -13,3 +13,8 @@ Spring Boot
 * MySQL
 * Lombok
 * Spring Boot DevTools
+
+## 구현 기능
+
+주문 및 장바구니
+
